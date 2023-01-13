@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "mailcore2-osx"
-  spec.version      = "0.6.4"
+  spec.version      = "0.6.5"
   spec.summary      = "Mailcore 2 for OS X"
   spec.description  = "MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up."
   spec.homepage     = "https://github.com/MailCore/mailcore2"
